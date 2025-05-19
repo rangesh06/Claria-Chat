@@ -2,6 +2,7 @@
 Claria Chat
 
 "Your AI-Powered Conversation Companion Built with Unity & LLMs"_
+<img width="324" alt="App icon sharp" src="https://github.com/user-attachments/assets/8a84ddc0-e516-4885-97f2-e350e160f807" />
 
 🚀 Overview
 
