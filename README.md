@@ -37,39 +37,12 @@ Prerequisites:
 * Mobile device running Android 8.0 or above
   
 
-Installation: 
-1. Clone the repository
-2. Import into Unity
-3. Open Unity Hub, select Add, and point to the cloned ClariaChat folder.
-4. Open the project in Unity 6.
-5. Configure Azure Speech
-6. In Unity Editor, go to Project Settings > Claria Chat > Speech.
-7. Enter your Azure Speech Key and Region.
-
-Build Settings:
-File > Build Settings > Android
-
-Add Assets/Scenes/Your Scene to the build.
-
-Click Build & Run to deploy on your connected device.
-
 💡 Usage
 Launch Claria Chat on your Android device.
 Tap the Microphone icon or use the Input Field to start your conversation.
-
 Speak naturally; Azure STT transcribes your voice.
-
 The Qwen 2 model processes input locally and formulates responses.
 
-Enjoy instant voice replies or read the text output.
 
-🌱 Contributing:
-We welcome contributions! Please follow these steps:
-Fork the repository.
-Create a feature branch: git checkout -b feature/YourFeatureName.
 
-📜 License
 
-This project is licensed under the MIT License. See LICENSE for details.
-
-Built with passion and AI-driven efficiency — Pro Link
